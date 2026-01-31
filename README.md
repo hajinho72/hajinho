@@ -19,7 +19,7 @@
 * **목적**: 엘소드 주요 레이드 콘텐츠의 기능 정상 작동 여부 검증
 * **산출물**: 
   * [테스트 계획서(TP)](Docs/Test_Plan.md)
-  * [테스트 케이스(TC)](./docs/Test_Case.xlsx)
+  * [테스트 케이스(TC)](TestCase)
   * [결함 보고서(Bug Report)](./docs/Bug_Report.md)
 
 ## 테스트 전략

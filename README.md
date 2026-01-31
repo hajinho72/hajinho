@@ -43,5 +43,5 @@ CPU: Intel(R) Core(TM) i5-10400F
 <br>운영체제: Windows 11 Pro (23H2)
 
 ### -게임 버전-
-
+L. 260115.2_10
 

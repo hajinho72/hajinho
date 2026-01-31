@@ -18,7 +18,7 @@
 **"17년 숙련도의 유저 관점을 반영한 결함 탐색"**
 * **목적**: 엘소드 주요 레이드 콘텐츠의 기능 정상 작동 여부 검증
 * **산출물**: 
-  * [테스트 계획서(TP)]([.[/docs/Test_Plan.md](https://github.com/hajinho72/hajinho/blob/main/Docs/%ED%85%8C%EC%8A%A4%ED%8A%B8%EA%B3%84%ED%9A%8D%EC%84%9C)](https://github.com/hajinho72/hajinho/blob/ff826987343400a2cbb763501bc509a0c254e0d8/Docs/%ED%85%8C%EC%8A%A4%ED%8A%B8%EA%B3%84%ED%9A%8D%EC%84%9C))
+  * [테스트 계획서(TP)]([Docs/테스트계획서))
   * [테스트 케이스(TC)](./docs/Test_Case.xlsx)
   * [결함 보고서(Bug Report)](./docs/Bug_Report.md)
 

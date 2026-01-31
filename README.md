@@ -20,7 +20,7 @@
 * **산출물**: 
   * [테스트 계획서(TP)](Docs/Test_Plan.md)
   * [테스트 케이스(TC)](TestCase)
-  * [결함 보고서(Bug Report)](./docs/Bug_Report.md)
+  * [결함 보고서(Bug Report)](bugreport)
 
 ## 테스트 전략
 * **리스크 기반 테스트** : 최근 업데이트된 레이드 싱글 모드 콘텐츠및 신규 레이드 진행 시 리스크를 우선순위로 설정

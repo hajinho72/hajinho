@@ -1,4 +1,4 @@
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/945bcc77-d1e7-4552-8138-ab561c57886c" />[TC-ID-05]싱글모드 서펜티움 레이드 오케스트라 홀 1페이즈 패턴
+[TC-ID-05]싱글모드 서펜티움 레이드 오케스트라 홀 1페이즈 패턴
 
 Status: 🟢 Pass
 

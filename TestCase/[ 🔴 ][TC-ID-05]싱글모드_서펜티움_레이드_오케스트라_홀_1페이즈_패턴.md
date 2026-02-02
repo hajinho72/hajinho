@@ -1,6 +1,6 @@
 [TC-ID-05]싱글모드 서펜티움 레이드 오케스트라 홀 1페이즈 패턴
 
-Status: 🟢 Pass
+Status: 🔴 Fail
 
 개요 (Summary)
 

@@ -17,7 +17,8 @@
 **"유저 관점을 반영한 결함 탐색"**
 * **목적**: 엘소드 신규 콘텐츠 헤니르 : 데빌 오브 카오스, 하이앤트로피
 * **산출물**: 
-  * [테스트 계획서(TP)](Docs/Test_Plan.md)
+  * [테스트 계획서(TP)](Docs/TestPlan.md)
+  * [테스트 맵(TM)](Docs/TestMap.md)
   * [테스트 케이스(TC)](TestCase)
   * [결함 보고서(Bug Report)](bugreport)
 

@@ -1,6 +1,6 @@
-# <h1 align="center">Fiver QA 지원</h1>
+# <h1 align="center">엘소드 포트폴리오</h1>
 <p align="center">
-  <b>Fiver QA 지원 포트폴리오</b><br>
+  <b>QA 지원 포트폴리오</b><br>
 </p>
 
 

@@ -1,21 +1,29 @@
 # <h1 align="center">Fiver QA 지원</h1>
 <p align="center">
   <b>Fiver QA 지원 포트폴리오</b><br>
-  엘소드 테스트 케이스
 </p>
 
 
 
-<p align="center"><img width="1152" height="648" alt="1" src="<img width="355" height="142" alt="Elsowrd" src="https://github.com/user-attachments/assets/08352b41-3f4e-4212-839b-30fe1fd5c542" />
- />
+<p align="center"><img width="355" height="142" alt="Elsowrd" src="https://github.com/user-attachments/assets/8f252f20-efb3-4ca0-a6da-ebf6f0594122"/>
+
+
 
   <a href="https://www.kog.co.kr/recruit/notice/321">👉 [Fiver QA 지원공고 바로가기]</a>
 </p>
 
 ---
+## 👤 도메인 지식 및 숙련도
+**"해당 게임사(KOG)의 게임을 깊이 있게 플레이하며 시스템 로직과 유저 패턴을 파악하고 있습니다."**
+
+* **플레이 목록**
+* **엘소드** : 2008년 체험아이디로 시작하여 현재까지 플레이하고있으며 현재 모든 콘텐츠를 클리어 경험이 있으며
+영웅대전, 팝업스토어, 엘스타, 오케스트라 등의 오프라인 이벤트도 참여하였습니다.
+* **그랜드체이스** : 아신 캐릭터 출시까지의 플레이 경험을 가지고있으며 캐릭터 영입 퀘스트, 전직 퀘스트, 펫 조합식등 다양하게 플레이 해보았습니다.
+* **커츠펠** : 출시후 플레이해보았으며 기존과 다른 PVP와 던전의 요소를 경험하였습니다.
+
 
 ## 🔍 프로젝트 개요
-**"유저 관점을 반영한 결함 탐색"**
 * **목적**: 엘소드 신규 콘텐츠 헤니르 : 데빌 오브 카오스, 하이앤트로피
 * **산출물**: 
   * [테스트 계획서(TP)](Docs/TestPlan.md)

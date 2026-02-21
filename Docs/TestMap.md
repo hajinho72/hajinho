@@ -1,1 +1,2 @@
-<img width="4649" height="3190" alt="제목 없음" src="https://github.com/user-attachments/assets/ac9c9a29-9b01-4528-b219-3ef9cfe40838" />
+<img width="4649" height="3190" alt="Test Map" src="https://github.com/user-attachments/assets/2b7aa065-543c-4151-871b-c9d247af0614" />
+" />

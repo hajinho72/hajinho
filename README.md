@@ -6,7 +6,8 @@
 
 
 
-<p align="center"><img width="1152" height="648" alt="1" src="https://github.com/user-attachments/assets/9cffc6bf-892b-4077-be64-53abc1501ece" />
+<p align="center"><img width="1152" height="648" alt="1" src="<img width="355" height="142" alt="Elsowrd" src="https://github.com/user-attachments/assets/08352b41-3f4e-4212-839b-30fe1fd5c542" />
+ />
 
   <a href="https://www.kog.co.kr/recruit/notice/321">👉 [Fiver QA 지원공고 바로가기]</a>
 </p>

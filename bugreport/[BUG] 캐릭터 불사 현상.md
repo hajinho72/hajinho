@@ -32,7 +32,7 @@ OS/버전: Windows 11
 
 📸 에비던스 (Evidence)
 
-
+<<img width="1832" height="1032" alt="SC_L 260212 1_7_ 2026-02-12 22-21-40-825" src="" />
 
 
 🚨 위험도 판정 (Severity & Priority)

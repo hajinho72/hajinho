@@ -34,7 +34,8 @@ OS/버전: Windows 11
 
 <img width="1832" height="1032" alt="" src="https://github.com/hajinho72/hajinho/blob/main/Evidence/%EC%BA%90%EB%A6%AD%ED%84%B0%20%EB%B6%88%EC%82%AC.png" />
 <a href="https://github.com/hajinho72/hajinho/blob/main/Evidence/%EB%B6%88%EC%82%AC.mp4">👉 [죽지 않는 현상 영상]</a>
-<**용량 이슈로 인하여 다운로드하여 확인바랍니다**>
+
+**용량 이슈로 인하여 다운로드하여 확인바랍니다**
 
 
 

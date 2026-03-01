@@ -1,1 +1,1 @@
-<img width="1342" height="1344" alt="Test Plan" src="https://github.com/user-attachments/assets/a1576342-118c-4b4f-9b83-ea88c482a8f1" />
+<img width="2236" height="2644" alt="엘소드_QA_테스트계획서_하진호" src="https://github.com/user-attachments/assets/cefbd2bb-7ed7-4ea8-b99a-0aabbf1313df" />

@@ -9,7 +9,7 @@
 
 
 
-  <a href="https://www.kog.co.kr/recruit/notice/321">👉 [Fiver QA 지원공고 바로가기]</a>
+  
 </p>
 
 ---
